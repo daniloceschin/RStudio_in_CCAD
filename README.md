@@ -74,7 +74,11 @@ git clone https://github.com/grst/rstudio-server-conda.git
 ## Paso 8: Descargar y ejecutar el script run_rstudio.sh
 
 1. Descarga el script `run_rstudio.sh` en tu directorio `$HOME`.
-2. Ejecuta el script con el siguiente comando:
+```bash
+wget https://github.com/daniloceschin/RStudio_in_CCAD/blob/main/run_rstudio.sh
+```
+
+3. Ejecuta el script con el siguiente comando:
 ```bash
 bash run_rstudio.sh
 ```
