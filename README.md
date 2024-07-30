@@ -88,7 +88,7 @@ bash run_rstudio.sh
 1. Una vez ejecutado el script, sigue las instrucciones que aparecerán en la terminal para completar la configuración y puesta en marcha de RStudio.
 
 ## Paso 10: Iniciar RStudio en otras instancias
-1. Una vez realizado este tutorial, para iniciar nuevas sesiones de RStudio en tu computadora sólo tienes que ejecutar el script `run_rstudio.sh`
+1. Una vez realizado este tutorial, para iniciar nuevas sesiones de RStudio en tu computadora sólo tienes que ejecutar el script `run_rstudio.sh` y siga las instrucciones impresas en el terminal.
 ```bash
 bash run_rstudio.sh
 ```
