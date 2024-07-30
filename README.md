@@ -1,7 +1,5 @@
----
-title: "Guía para la Instalación de RStudio en el CCAD en sólo 10 pasos"
-output: html_document
----
+
+### "Guía para la Instalación de RStudio en el CCAD en sólo 10 pasos"
 
 Esta guía te ayudará a instalar RStudio en el cluster de computadoras del CCAD y a configurar una interfaz gráfica en tu computadora.
 
