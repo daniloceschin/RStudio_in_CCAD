@@ -70,6 +70,7 @@ micromamba install conda-forge::r-base
 ```bash
 git clone https://github.com/grst/rstudio-server-conda.git
 ```
+Para conocer más sobre este proyecto puedes leer [Aquí](https://github.com/grst/rstudio-server-conda)
 
 ## Paso 8: Descargar y ejecutar el script run_rstudio.sh
 
