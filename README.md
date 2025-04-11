@@ -32,17 +32,6 @@ micromamba
 micromamba info
 ```
 
-## Paso 3: Verificar la instalación de micromamba
-
-1. Para comprobar que micromamba está instalado correctamente, ejecuta:
-```bash
-micromamba
-```
-2. Para obtener información sobre la instalación de micromamba, ejecuta:
-```bash
-micromamba info
-```
-
 ## Paso 4: Crear el ambiente para RStudio
 
 1. Crea un nuevo entorno llamado `rstudio` con el siguiente comando:
